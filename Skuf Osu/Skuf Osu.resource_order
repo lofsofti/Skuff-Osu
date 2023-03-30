@@ -18,5 +18,6 @@
   ],
   "ResourceOrderSettings": [
     {"name":"nonbeancursor","order":1,"path":"sprites/nonbeancursor/nonbeancursor.yy",},
+    {"name":"objcircle","order":1,"path":"objects/objcircle/objcircle.yy",},
   ],
 }
