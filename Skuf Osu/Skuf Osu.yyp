@@ -36,6 +36,7 @@
   "resources": [
     {"id":{"name":"cursor","path":"sprites/cursor/cursor.yy",},},
     {"id":{"name":"nonbeancursor","path":"sprites/nonbeancursor/nonbeancursor.yy",},},
+    {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
     {"id":{"name":"objcircle","path":"objects/objcircle/objcircle.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
