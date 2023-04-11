@@ -35,10 +35,12 @@
   },
   "resources": [
     {"id":{"name":"cursor","path":"sprites/cursor/cursor.yy",},},
-    {"id":{"name":"nonbeancursor","path":"sprites/nonbeancursor/nonbeancursor.yy",},},
+    {"id":{"name":"nonbeancircle","path":"sprites/nonbeancircle/nonbeancircle.yy",},},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
     {"id":{"name":"objcircle","path":"objects/objcircle/objcircle.yy",},},
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"circle","path":"sprites/circle/circle.yy",},},
+    {"id":{"name":"objcircleclick","path":"objects/objcircleclick/objcircleclick.yy",},},
+    {"id":{"name":"controlling","path":"objects/controlling/controlling.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
