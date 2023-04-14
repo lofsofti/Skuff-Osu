@@ -35,9 +35,10 @@
   },
   "resources": [
     {"id":{"name":"cursor","path":"sprites/cursor/cursor.yy",},},
+    {"id":{"name":"pathpixel","path":"sprites/pathpixel/pathpixel.yy",},},
     {"id":{"name":"nonbeancircle","path":"sprites/nonbeancircle/nonbeancircle.yy",},},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
-    {"id":{"name":"objcircle","path":"objects/objcircle/objcircle.yy",},},
+    {"id":{"name":"objspawner","path":"objects/objspawner/objspawner.yy",},},
     {"id":{"name":"circle","path":"sprites/circle/circle.yy",},},
     {"id":{"name":"objcircleclick","path":"objects/objcircleclick/objcircleclick.yy",},},
     {"id":{"name":"controlling","path":"objects/controlling/controlling.yy",},},
