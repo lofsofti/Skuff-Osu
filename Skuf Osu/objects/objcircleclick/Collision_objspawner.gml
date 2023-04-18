@@ -1,5 +1,5 @@
-image_alpha = 1
-if image_alpha = 1 then 
+image_alpha = 1 
+if image_alpha = 1 then
 {
-	alarm[0] = room_speed * 100
+	alarm[0] = room_speed*2
 }
