@@ -5,3 +5,10 @@
 //{
 //	instance_destroy(objcircle)
 //}
+
+
+//// z
+//if instance_position(mouse_x, mouse_y, objcircleclick) then //instance_destroy(objcircleclick)
+//{
+//	if keyboard_check("Z") = true then instance_destroy(objcircleclick)
+//}
