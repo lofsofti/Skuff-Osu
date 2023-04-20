@@ -1,1 +1,1 @@
-instance_destroy(objcircleclick)
+//instance_destroy(objcircleclick)

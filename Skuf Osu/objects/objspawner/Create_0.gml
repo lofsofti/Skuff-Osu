@@ -1,4 +1,5 @@
-path_start(streamtest, 10, path_action_reverse, true)
+path_start(jmptest, 75, path_action_reverse, true)
+//path_start(streamtest, 10, path_action_reverse, true)
 
 //if (start_timer == true) {timer = room_speed * 5;}
 

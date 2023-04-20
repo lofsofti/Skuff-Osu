@@ -1,4 +1,4 @@
-image_alpha = 1
+//image_alpha = 0
 //if x > 700 then 
 //{
 //	instance_create_layer(x,y, "Instances",objcircleclick) 
