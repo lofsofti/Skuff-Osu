@@ -1,7 +1,7 @@
 {
   "resourceType": "GMPath",
   "resourceVersion": "1.0",
-  "name": "Path1",
+  "name": "jmptest",
   "closed": false,
   "kind": 0,
   "parent": {
