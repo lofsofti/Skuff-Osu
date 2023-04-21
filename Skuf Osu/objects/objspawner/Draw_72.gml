@@ -1,0 +1,1 @@
+//draw_line_color(x,y,x,y,c_red,c_aqua)

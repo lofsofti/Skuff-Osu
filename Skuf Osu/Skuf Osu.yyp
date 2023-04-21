@@ -37,7 +37,6 @@
     {"id":{"name":"cursor","path":"sprites/cursor/cursor.yy",},},
     {"id":{"name":"fullscren","path":"objects/fullscren/fullscren.yy",},},
     {"id":{"name":"pathpixel","path":"sprites/pathpixel/pathpixel.yy",},},
-    {"id":{"name":"nonbeancircle","path":"sprites/nonbeancircle/nonbeancircle.yy",},},
     {"id":{"name":"teststreaming","path":"rooms/teststreaming/teststreaming.yy",},},
     {"id":{"name":"streamtest","path":"paths/streamtest/streamtest.yy",},},
     {"id":{"name":"jmptest","path":"paths/jmptest/jmptest.yy",},},

@@ -19,7 +19,6 @@
   "ResourceOrderSettings": [
     {"name":"fullscren","order":3,"path":"objects/fullscren/fullscren.yy",},
     {"name":"pathpixel","order":3,"path":"sprites/pathpixel/pathpixel.yy",},
-    {"name":"nonbeancircle","order":1,"path":"sprites/nonbeancircle/nonbeancircle.yy",},
     {"name":"teststreaming","order":1,"path":"rooms/teststreaming/teststreaming.yy",},
     {"name":"streamtest","order":1,"path":"paths/streamtest/streamtest.yy",},
     {"name":"objspawner","order":1,"path":"objects/objspawner/objspawner.yy",},
