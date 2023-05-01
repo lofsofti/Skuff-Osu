@@ -18,3 +18,9 @@ if instance_position(mouse_x, mouse_y, objcircleclick) then //instance_destroy(o
 	if keyboard_check("Z") = true then instance_destroy(objcircleclick)
 }
 */
+
+if mouse_check_button_pressed(mb_left) = true
+then 
+{
+
+}
