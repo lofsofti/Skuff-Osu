@@ -1,1 +1,1 @@
-room_goto(map)
+room_goto(mapchoose)
