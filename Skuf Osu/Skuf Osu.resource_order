@@ -31,6 +31,7 @@
     {"name":"closegm","order":5,"path":"objects/closegm/closegm.yy",},
     {"name":"dixonmurder","order":7,"path":"objects/dixonmurder/dixonmurder.yy",},
     {"name":"mytimeCHOOSE","order":9,"path":"objects/mytimeCHOOSE/mytimeCHOOSE.yy",},
+    {"name":"machi","order":3,"path":"paths/machi/machi.yy",},
     {"name":"menuscren","order":2,"path":"sprites/menuscren/menuscren.yy",},
     {"name":"machicloveer","order":5,"path":"sprites/machicloveer/machicloveer.yy",},
     {"name":"objspawner","order":1,"path":"objects/objspawner/objspawner.yy",},
@@ -51,7 +52,6 @@
     {"name":"endgm","order":2,"path":"sprites/endgm/endgm.yy",},
     {"name":"mapchoose","order":3,"path":"rooms/mapchoose/mapchoose.yy",},
     {"name":"start","order":4,"path":"sprites/start/start.yy",},
-    {"name":"machi","order":3,"path":"paths/machi/machi.yy",},
     {"name":"machispawner","order":10,"path":"objects/machispawner/machispawner.yy",},
   ],
 }
