@@ -5,8 +5,8 @@
   "closed": false,
   "kind": 0,
   "parent": {
-    "name": "Paths",
-    "path": "folders/Paths.yy",
+    "name": "omori",
+    "path": "folders/Paths/omori.yy",
   },
   "points": [
     {"speed":100.0,"x":64.0,"y":224.0,},
